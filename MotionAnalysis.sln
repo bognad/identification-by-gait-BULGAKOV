@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionAnalysis", "MotionAnalysis.csproj", "{E8275659-ECFB-4431-8016-3CBC44E38543}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E8275659-ECFB-4431-8016-3CBC44E38543}.Debug.ActiveCfg = Debug|.NET
+		{E8275659-ECFB-4431-8016-3CBC44E38543}.Debug.Build.0 = Debug|.NET
+		{E8275659-ECFB-4431-8016-3CBC44E38543}.Release.ActiveCfg = Release|.NET
+		{E8275659-ECFB-4431-8016-3CBC44E38543}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
